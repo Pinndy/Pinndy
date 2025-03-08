@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Pinndy
 - 👀 I’m interested to being a programmer
 - 🌱 I’m currently learning programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i'm closed
 
 <!---
