@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pinndy
+- 👋 Hi, I’m @Pinndy welcome to my page
 - 👀 I’m interested to being a programmer
 - 🌱 I’m currently learning programming language
 - ⚡ Fun fact: i'm closed
